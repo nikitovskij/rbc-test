@@ -34,7 +34,7 @@ http://127.0.0.1:8000
 
 
 ## Example
-Test app on <a href="https://rbc-test.herokuapp.com/">Heroku</a>
+Test app on <a href="http://rbk-test.herokuapp.com//">Heroku</a>
 
 ## REQUIREMENTS
 * PHP 7.4+
